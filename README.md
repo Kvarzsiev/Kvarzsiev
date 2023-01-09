@@ -1,4 +1,4 @@
-### Hi there 👋
+### Sup, I'm Enzo, I'm a fullstack wannabe from Brazil 🇧🇷
 
 <!--
 **Kvarzsiev/Kvarzsiev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
