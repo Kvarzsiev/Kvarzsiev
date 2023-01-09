@@ -1,5 +1,6 @@
 # Sup, dear reader. 
 - I'm Enzo, a fullstack wannabe from Brazil 🇧🇷, working now at [SIM Rede](https://github.com/SIM-Rede) as a developer 💻.
+- About my bio, it is, indeed, a joke and I like much more things than that wich I hate.
 
 ---
 
