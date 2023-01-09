@@ -1,5 +1,5 @@
 # Sup, dear reader. 
-- I'm Enzo, a fullstack wannabe from Brazil 🇧🇷, working now at [SIM Rede| https://github.com/SIM-Rede] as a developer 💻.
+- I'm Enzo, a fullstack wannabe from Brazil 🇧🇷, working now at [SIM Rede](https://github.com/SIM-Rede) as a developer 💻.
 
 ---
 
