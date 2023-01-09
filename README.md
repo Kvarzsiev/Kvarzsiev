@@ -1,18 +1,13 @@
-### Sup, I'm Enzo, I'm a fullstack wannabe from Brazil 🇧🇷
+### Sup, dear reader. I'm Enzo, I'm a fullstack wannabe from Brazil 🇧🇷, working now at SIM Rede as a developer 💻.
 
-<!--
-**Kvarzsiev/Kvarzsiev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My main experiences are in
 
-Here are some ideas to get you started:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" /> -- 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> -- 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain-wordmark.svg" />
+          
+          
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
-https://www.linkedin.com/in/enzo-baroni-9baa4a246/
+**How to find me ↓**
+
