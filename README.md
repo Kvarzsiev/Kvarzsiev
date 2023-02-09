@@ -16,8 +16,4 @@
 
 #### And I know a little bit of
 <img style="width: 64px; height: 64px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-          
-
-### How to find me:
-
-<a href="https://instagram.com/kvarzsiev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+         
