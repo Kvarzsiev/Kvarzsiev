@@ -1,6 +1,5 @@
 # Sup, dear reader. 
 - I'm a fullstack wannabe from Brazil 🇧🇷.
-- About my bio, it is, indeed, a joke and I like much more things than that which I hate.
 
 ---
 
